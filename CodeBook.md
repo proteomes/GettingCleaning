@@ -1,10 +1,10 @@
-### Code Book
+# Code Book
 
 This code book describes the variables, the data, and any transformations or work that you performed to clean up the data. 
 
 
 
-# Variables
+## Variables
 
 - subjectId: 1 to 30 each representing a participant in the study
 - activity: the activity that the subject was doing at the time of the measurement
@@ -76,7 +76,7 @@ This code book describes the variables, the data, and any transformations or wor
 - fBodyBodyGyroJerkMag-std
 
 
-# The data source
+## The data source
 
 Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -85,7 +85,7 @@ A full description is available at the site where the data was obtained: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 
-# Data transformations
+## Data transformations
 
 1. Unzipped the data set into my chosen working directory
 2. Combined test and training data frames using rbind
