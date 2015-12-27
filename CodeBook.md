@@ -5,8 +5,9 @@ This code book describes the variables, the data, and any transformations or wor
 
 
 ## Variables
-- subjectId: 1 to 30 each representing a participant in the study
-- activity: the activity that the subject was doing at the time of the measurement
+
+subjectId: 1 to 30 each representing a participant in the study
+activity: the activity that the subject was doing at the time of the measurement
 
 - tBodyAcc-mean-X        
 - tBodyAcc-mean-Y
